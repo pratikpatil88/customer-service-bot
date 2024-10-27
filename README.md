@@ -1,6 +1,6 @@
-# CustomerServiceBot
+# customer-service-bot
 
-CustomerServiceBot is an intelligent, interactive chatbot designed to provide customer support by understanding and responding to user queries. Built using Streamlit and SentenceTransformer, this bot leverages machine learning models to match user queries with predefined responses, making it a robust solution for any customer support scenario.
+Customer service bot is an intelligent, interactive chatbot designed to provide customer support by understanding and responding to user queries. Built using Streamlit and SentenceTransformer, this bot leverages machine learning models to match user queries with predefined responses, making it a robust solution for any customer support scenario.
 
 Features:
 User-Friendly Interface: Simple and intuitive interface built with Streamlit.
